@@ -1,0 +1,51 @@
+body {
+    background-color: rgba(189, 192, 205, 0.592);
+    margin: 8px;
+    background-size: auto;
+    max-width: 700px;
+    display: block;
+    font-family: cursive;
+  }
+
+  #author {
+    font-style: italic;
+  }
+
+#mainHeading {
+    color: red;
+    align-content: center;
+    margin-left: 30px;
+}
+
+#foods {
+  text-align: center;
+  list-style-type: none;
+}
+
+.funParagraph {
+    color: green
+}
+  .foodName {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+  }
+  
+  h1 {
+    color: wheat
+    margin-left: 30px;
+  }
+  p {
+    padding: 5px 20px;
+  }
+    h2 {
+    color: purple;
+    text-align: center;
+     }
+
+     main {
+         background-color: lightpink;
+         font-family: cursive;
+         font-weight: bold;
+     }
+
